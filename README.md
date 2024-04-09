@@ -7,7 +7,6 @@ This project aims to predict house prices in Chennai City using machine learning
 2. [Dataset](#dataset)
 3. [Machine Learning Model](#machine-learning-model)
 4. [Frontend Development](#frontend-development)
-5. [Screenshots](#screenshots)
 
 ## Overview <a name="overview"></a>
 The goal of this project is to provide users with accurate predictions of house prices in Chennai City. By leveraging machine learning algorithms, users can input various features of a house and receive an estimated price. The project also includes a user-friendly frontend interface developed using Django, HTML5, Bootstrap5, and CSS.
@@ -21,8 +20,7 @@ The machine learning model used for house price prediction is trained on the dat
 ## Frontend Development <a name="frontend-development"></a>
 The frontend of the application is developed using Django, a high-level Python web framework, along with HTML5, Bootstrap5, and CSS. The interface provides users with a form where they can input the features of a house, such as area, number of bedrooms, location, etc. Upon submission, the predicted price is displayed to the user.
 
-## Screenshots <a name="screenshots"></a>
-![Main Page]([https://github.com/Darshanshelar96k](https://github.com/Darshanshelar96k/Darshan-s-Portfolio/blob/main/assets/img/portfolio/house/p1.png)](https://raw.githubusercontent.com/Darshanshelar96k/Darshan-s-Portfolio/main/assets/img/portfolio/house/p1.png))
+
 
 ## Getting Started
 To run this project locally, follow these steps:
